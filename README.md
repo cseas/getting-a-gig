@@ -285,7 +285,6 @@ Here's a list of some example fellowship programs. This is by no means a complet
 - [8VC Fellows](http://www.8vcfellowship.com/)
 - [Mayfield Fellows Program](http://stvp.stanford.edu/mayfield-fellows-program/)
 - [True Entrepreneur Corps](https://trueventures.com/true-platform/fellowships/tec)
-- [Venture for America](http://ventureforamerica.org/)
 - [Conservation X Labs Epic Fellowships](https://conservationxlabs.com/epic-fellowships)
 - [Pursuit Fellowship ](https://www.pursuit.org/fellowship)
 - [MLH Fellowship](https://fellowship.mlh.io/)
